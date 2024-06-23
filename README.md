@@ -1,1 +1,1 @@
-## Template for end to end ML projects
+## Template for ML projects
